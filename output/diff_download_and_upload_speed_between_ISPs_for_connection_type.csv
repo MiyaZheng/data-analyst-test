@@ -1,0 +1,7 @@
+"type_of_broadband_connection","name_of_isp","number_of_connection","average_download","average_upload"
+"ADSL","Fibrelicious",39,9.34979265314612,0.554121552718186
+"ADSL","Useus",39,14.0828645047002,0.681378279718758
+"Fibre","Fibrelicious",63,136.94606210168,45.5258193347625
+"Fibre","Useus",93,138.723532753498,54.7330755008046
+"VDSL","Fibrelicious",31,39.4754830644103,10.3578852822858
+"VDSL","Useus",24,34.6331452077349,8.93617754325152

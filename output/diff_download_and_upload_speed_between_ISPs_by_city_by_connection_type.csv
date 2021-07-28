@@ -1,0 +1,11 @@
+"name_of_isp","type_of_broadband_connection","city","average_download","average_upload"
+"Fibrelicious","ADSL","Databury",9.42464668256095,0.569382894967805
+"Fibrelicious","ADSL","Samsville",9.28563205650484,0.541040402218513
+"Fibrelicious","Fibre","Databury",111.023598690868,36.6859158218629
+"Fibrelicious","Fibre","Samsville",227.674684039522,76.465481629911
+"Fibrelicious","VDSL","Samsville",39.4754830644103,10.3578852822858
+"Useus","ADSL","Databury",14.3242068913961,0.690781507337335
+"Useus","ADSL","Samsville",13.8963726604352,0.674112149286221
+"Useus","Fibre","Databury",105.609910006713,41.1082873592507
+"Useus","Fibre","Samsville",193.597536162456,77.3112958496653
+"Useus","VDSL","Samsville",34.6331452077349,8.93617754325152
